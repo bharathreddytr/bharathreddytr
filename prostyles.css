@@ -179,5 +179,8 @@ li:hover{
     .footer .conatct {
         margin-bottom: 10px;
     }
+     .menu_area{
+        display: none;
+    }
 
 }
